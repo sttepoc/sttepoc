@@ -54,13 +54,6 @@ My focus is on combining **Artificial Intelligence, automation, and data analysi
 
 ---
 
-# 📊 GitHub Stats
-
-![Vicenzo GitHub stats](https://github-readme-stats.vercel.app/api?username=vicenzo-copetti&show_icons=true&theme=tokyonight)
-
-
----
-
 # 🧩 Featured Project Areas
 
 ### 🤖 AI Applications
@@ -75,11 +68,6 @@ Projects analyzing **financial datasets and market data** using Python.
 ### 🧠 Machine Learning
 Projects involving **predictive models, classification, and data-driven insights using Scikit-learn**.
 
----
-
-# 🐍 Contribution Graph
-
-![Snake animation](https://github.com/vicenzo-copetti/vicenzo-copetti/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
